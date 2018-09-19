@@ -1,0 +1,17 @@
+﻿Build started 6/11/2015 10:36:54 AM.
+Project "E:\Calculator System Project\New folder\project calculator\project calculator\project calculator.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Touching "Debug\project calculator.unsuccessfulbuild".
+ClCompile:
+  All outputs are up-to-date.
+ManifestResourceCompile:
+  All outputs are up-to-date.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Calculator System Project\New folder\project calculator\Debug\project calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\project calculator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Calculator System Project\New folder\project calculator\Debug\project calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Calculator System Project\New folder\project calculator\Debug\project calculator.lib" /MACHINE:X86 "Debug\project calculator.exe.embed.manifest.res"
+  "Debug\project calculator.obj"
+LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+Done Building Project "E:\Calculator System Project\New folder\project calculator\project calculator\project calculator.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.38
